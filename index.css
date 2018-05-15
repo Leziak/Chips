@@ -1,6 +1,51 @@
-.chip {
+.chips {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.chip1{
+    background-color: black;
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.chip2{
+    background-color: orange;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chip3{
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chip4{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chip5{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
